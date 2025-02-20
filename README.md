@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## About the app
+The application fetches and displays vehicle data from the API.
+Users can search for vehicle models by type and year.
+The application shows detailed results in a table format.
+
 ## Getting Started
 
 First, run the development server:
